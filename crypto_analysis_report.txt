@@ -1,0 +1,25 @@
+
+    Cryptocurrency Market Analysis Report
+    Generated on: 2025-02-11 15:16:31
+
+    1. Top 5 Cryptocurrencies by Market Cap:
+           Name  Market Cap (USD)
+0   Bitcoin     1945515245633
+1  Ethereum      326997064272
+2       XRP      144674801461
+3    Tether      141897054236
+4    Solana       99604894453
+
+    2. Market Statistics:
+    - Average Price: $4254.18
+    - Highest 24h Change: Cardano (15.06%)
+    - Lowest 24h Change: MANTRA (-3.33%)
+
+    3. Volume Analysis:
+    - Total 24h Trading Volume: $142,938,469,573.00
+    - Average Trading Volume: $2,858,769,391.46
+
+    4. Market Overview:
+    - Number of cryptocurrencies tracked: 50
+    - Total Market Cap: $3,173,413,314,740.00
+    
