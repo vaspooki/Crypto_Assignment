@@ -4,4 +4,6 @@ This project provides real-time tracking and analysis of the top 50 cryptocurren
 
 ## Setup Instructions
 
-1. Install required packages: 
+1. Install required packages: requirements.txt
+2. Run crypto_tracker.py
+3. Run generate_report.py
